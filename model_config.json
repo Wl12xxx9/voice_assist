@@ -1,0 +1,8 @@
+{
+  "wake_word": "wn9_hilexin",
+  "multinet": "mn6_cn",
+  "commands": [
+    {"id":1,"phrase":"kai deng"},
+    {"id":2,"phrase":"guan deng"}
+  ]
+}
