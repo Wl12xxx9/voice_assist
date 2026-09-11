@@ -1,0 +1,6 @@
+dependencies:
+  espressif/esp-sr: "^2.4.4"
+  espressif/cjson: "^1.7.17"
+  # esp_tinyusb: "*"
+  espressif/esp_tinyusb: "*"
+idf_version: ">=5.4.0,<5.5.0"
